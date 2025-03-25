@@ -1,0 +1,13 @@
+{
+  "$schema": "https://webrcade.github.io/feed-schema.json",
+  "title": "Arcade Vault",
+  "items": [
+    {
+      "name": "Pac-Man",
+      "type": "mame",
+      "rom": {
+        "url": "https://archive.org/download/mame_0.229_roms/pacman.zip"
+      }
+    }
+  ]
+}
