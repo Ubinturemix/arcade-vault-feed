@@ -1,8 +1,4 @@
 {
-  "$schema": "https://webrcade.github.io/feed-schema.json",
-  "title": "Arcade Vault",
-  "items": [
-    {
       "name": "Pac-Man",
       "type": "mame",
       "rom": {
