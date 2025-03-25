@@ -3,10 +3,10 @@
   "title": "Arcade Vault",
   "items": [
     {
-      "name": "Pac-Man",
+      "name": "Space Invaders (MAME2003)",
       "type": "mame",
       "rom": {
-        "url": "https://dl.dropboxusercontent.com/scl/fi/jb81f87pkg7lwzjo2hpgd/pacman.zip?rlkey=2r4omh22rduc42b34ry444m0u&st=14ektiry"
+        "url": "https://archive.org/download/MAME2003_Reference_Set_MERGED/MAME2003_Reference_Set_MERGED/invaders.zip"
       }
     }
   ]
